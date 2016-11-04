@@ -11,6 +11,9 @@
 (require 'init-color-theme)
 (require 'init-fonts)
 (require 'init-interface)
+;; (require 'init-ido)
+(require 'init-helm)
+(require 'init-powerline)
 (provide 'init)
 
 

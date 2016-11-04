@@ -4,6 +4,8 @@
 (scroll-bar-mode 0)
 ;; remove tool
 (tool-bar-mode 0)
+;; set fringe
+(fringe-mode 0)
 ;; init text
 (setq default-major-mode 'text-mode)
 ;; syntax highlight
