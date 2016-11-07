@@ -29,7 +29,8 @@ c-basic-offset 4)
 (global-set-key (kbd "C-<return>") 'newline)
 (setq default-buffer-file-coding-system 'utf-8)
 (set-terminal-coding-system 'utf-8)
-(setq-default make-backup-files 0)
+(setq auto-save-default nil)
+(setq make-backup-files nil)
 ;; set calendar
 (setq calendar-load-hook
 '(lambda ()

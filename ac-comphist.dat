@@ -1,0 +1,18 @@
+((("helm-execute-persistent-action" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("helm-ff-auto-update-initial-value" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nil" .
+   [2 0 0])
+  ("make-backup-file" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("setq" .
+   [1 0 0 0])
+  ("define-key" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("map" .
+   [2 0 0])
+  ("kbd" .
+   [2 0 0])
+  ("require" .
+   [1 0 0 0 0 0 0])))
