@@ -1,1 +1,4 @@
 **/.yas-compiled-snippets.el
+.DS_Store
+elpa
+node_module

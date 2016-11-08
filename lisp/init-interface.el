@@ -7,7 +7,7 @@
 ;; set fringe
 (fringe-mode 0)
 ;; init text
-(setq default-major-mode 'text-mode)
+(setq default-major-mode 'buffer)
 ;; syntax highlight
 (global-font-lock-mode t)
 ;; y/n
