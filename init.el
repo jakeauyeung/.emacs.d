@@ -21,14 +21,18 @@
 (require 'init-interface)
 ;; nyan
 (require 'init-nyan-mode)
+;; window numbering
+(require 'init-window-numbering)
 ;; js2-mode
 (require 'init-js2-mode)
 ;; rest client
 (require 'init-restclient)
 ;; helm config
 (require 'init-helm)
+;; company
+(require 'init-company)
 ;; auto complete
-(require 'init-auto-complete)
+;;(require 'init-auto-complete)
 ;; yasnippets
 (require 'init-yasnippet)
 ;; user keybind config

@@ -6,12 +6,17 @@
 (tool-bar-mode 0)
 ;; set fringe
 (fringe-mode 0)
+;; set default directory
+(setq default-directory "~/Desktop")
 ;; init text
-(setq default-major-mode 'buffer)
+(setq default-major-mode 'text-mode)
 ;; syntax highlight
 (global-font-lock-mode t)
 ;; y/n
 (fset 'yes-or-no-p 'y-or-n-p)
+;; electric pair
+(electric-pair-mode t)
+(electric-indent-mode t)
 ;; show paren
 (show-paren-mode t)
 (setq show-paren-style 'parentheses)
@@ -31,12 +36,6 @@ c-basic-offset 4)
 (set-terminal-coding-system 'utf-8)
 (setq auto-save-default nil)
 (setq make-backup-files nil)
-;; set calendar
-(setq calendar-load-hook
-'(lambda ()
-(set-face-foreground 'diary-face "skyblue")
-(set-face-background 'holiday-face "slate blue")
-(set-face-foreground 'holiday-face "white")))
 ;; frame title
 (setq frame-title-format "Happy Hacking ♥ %b")
 

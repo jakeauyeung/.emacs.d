@@ -1,8 +1,7 @@
 (deftheme chong
   "chong color theme")
 
-(custom-theme-set-faces
- 'chong
+(custom-theme-set-faces 'chong
  '(cursor ((t (:foreground "white"))))
  '(default ((t (:stipple nil :background "#102e4e" :foreground "#eeeeee" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :width normal :family "misc-fixed"))))
  '(border ((t (:color "black"))))
@@ -34,7 +33,6 @@
  '(cvs-msg-face ((t (:italic t :slant italic))))
  '(cvs-need-action-face ((t (:foreground "orange"))))
  '(cvs-unknown-face ((t (:foreground "red"))))
- '(diary-face ((t (:foreground "orange red"))))
  '(diff-added-face ((t (nil))))
  '(diff-changed-face ((t (nil))))
  '(diff-context-face ((t (:foreground "grey70"))))
