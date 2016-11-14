@@ -1,7 +1,0 @@
-testcafe
-nvm use stable
-nvm
-node
-echo $SHELL
-which node
-ls

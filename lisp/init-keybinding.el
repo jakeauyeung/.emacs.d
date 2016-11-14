@@ -1,3 +1,5 @@
+;; auto complete
+(define-key ac-mode-map (kbd "M-TAB") 'auto-complete)
 ;; helm keybinding config
 (global-set-key "\M-x" 'helm-M-x)
 (global-set-key "\C-x\C-f" 'helm-find-files)

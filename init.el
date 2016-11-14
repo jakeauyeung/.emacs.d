@@ -19,6 +19,8 @@
 (require 'init-fonts)
 ;; display config
 (require 'init-interface)
+;; auto complete
+(require 'init-auto-complete)
 ;; nyan
 (require 'init-nyan-mode)
 ;; window numbering
@@ -29,10 +31,6 @@
 (require 'init-restclient)
 ;; helm config
 (require 'init-helm)
-;; company
-(require 'init-company)
-;; auto complete
-;;(require 'init-auto-complete)
 ;; yasnippets
 (require 'init-yasnippet)
 ;; user keybind config
@@ -45,9 +43,12 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(Info-default-directory-list (quote ("~/Desktop")))
+ '(dired-kept-versions 1)
  '(package-selected-packages
    (quote
-    (restclient yasnippet helm color-theme auto-complete))))
+    (restclient yasnippet helm color-theme auto-complete)))
+ '(yas-snippet-dirs (quote ("~/.emacs.d/snippets"))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
