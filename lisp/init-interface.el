@@ -7,7 +7,7 @@
 ;; set fringe
 (fringe-mode 0)
 ;; set default directory
-(setq default-directory "~/Desktop")
+(setq command-line-default-directory "~/Desktop/jakeauyeung/")
 ;; init text
 (setq default-major-mode 'text-mode)
 ;; syntax highlight
