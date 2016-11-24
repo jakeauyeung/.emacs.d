@@ -1,0 +1,12 @@
+*** Emacs ❤ u
+
+- Plugins List
+  - Helm
+  - Yasnippet
+  - Window-numbering
+  - Js2-mode
+  - Restclient
+  - Nyan-mode
+  - Auto-complete
+  - ...
+️
