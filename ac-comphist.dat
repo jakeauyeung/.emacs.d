@@ -1,4 +1,292 @@
-((("ac-js2-mode" .
+((("5px" .
+   [1 0 0])
+  ("span" .
+   [1 0 0 0])
+  ("14px" .
+   [1 0 0 0])
+  ("settings-box" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("repository" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("events" .
+   [0 0 0 0 0 1])
+  ("emptyHtml" .
+   [0 0 1 0 0 0 0 1 0])
+  ("empty" .
+   [0 0 0 0 1])
+  ("remove" .
+   [1 0 0 0 0 0])
+  ("click" .
+   [1 0 0 0 0])
+  ("chengjiaojia" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("_id" .
+   [2 0 0])
+  ("initFindData" .
+   [0 0 0 1 0 1 0 0 0 0 0 1])
+  ("numReplaed" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("parseInt" .
+   [0 0 0 0 0 1 1 0])
+  ("defaultData" .
+   [0 0 0 2 0 0 0 0 0 0 0])
+  ("getAttribute" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("idData" .
+   [0 0 3 0 0 0])
+  ("donePrice" .
+   [0 0 0 0 4 0 0 0 0])
+  ("delData" .
+   [0 0 0 2 0 0 0])
+  ("saveData" .
+   [0 0 0 0 2 0 0 0])
+  ("prepare" .
+   [0 0 0 2 0 0 0])
+  ("totalIndex" .
+   [1 0 2 0 0 1 0 0 0 2])
+  ("homeGo" .
+   [0 0 0 0 0 2])
+  ("string" .
+   [1 0 0 0 0 0])
+  ("value" .
+   [4 0 0 2 1])
+  ("searchKey" .
+   [1 0 1 4 1 0 0 0 0])
+  ("searchGo" .
+   [1 0 0 0 0 0 1 1])
+  ("1rem" .
+   [2 0 0 0])
+  ("search-box" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("contentData" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("5rem" .
+   [4 0 0 0])
+  ("display" .
+   [0 0 1 1 0 0 0])
+  ("help-closed" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("10px" .
+   [2 0 0 0])
+  ("fixed" .
+   [0 0 0 1 0])
+  ("position" .
+   [0 0 0 1 0 0 0 0])
+  ("Background" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("currentIndex" .
+   [0 0 5 7 0 0 0 0 1 0 0 9])
+  ("current" .
+   [0 0 0 0 1 0 0])
+  ("_index" .
+   [16 0 0 2 0 0])
+  ("nextIndex" .
+   [0 0 0 2 0 0 0 0 3])
+  ("items" .
+   [10 0 0 3 5])
+  ("stringify" .
+   [0 0 0 0 0 0 0 1 0])
+  ("setItem" .
+   [1 0 0 0 0 0 0])
+  ("findData" .
+   [0 0 0 0 0 0 1 0])
+  ("$exists" .
+   [0 0 0 0 1 0 0])
+  ("find" .
+   [2 0 0 1])
+  ("nextSessionLocalData" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("else" .
+   [10 0 0 0])
+  ("sessionLocalDataLength" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("false" .
+   [12 0 0 0 0])
+  ("return" .
+   [13 0 0 0 0 0])
+  ("length" .
+   [0 0 6 1 2 1])
+  ("nextCellForm" .
+   [0 0 0 1 1 0 0 0 0 0 0 4])
+  ("getItem" .
+   [2 0 0 0 1 0 1])
+  ("createHtml" .
+   [0 0 0 0 0 0 0 0 0 9])
+  ("qipaijia" .
+   [1 0 0 0 0 0 0 1])
+  ("shuliang" .
+   [0 0 0 1 0 0 0 0])
+  ("yanse" .
+   [0 0 0 0 1])
+  ("dengji" .
+   [0 0 0 0 1 0])
+  ("guige" .
+   [0 0 0 1 0])
+  ("chengjiaohao" .
+   [0 0 0 0 0 0 0 0 0 3 0 2])
+  ("index" .
+   [13 0 0 0 0])
+  ("setSessionTool" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("JSON" .
+   [7 0 0 0])
+  ("sessionStorage" .
+   [0 0 0 0 5 0 0 2 0 0 0 0 0 0])
+  ("l" .
+   [2])
+  ("sessionLocalData" .
+   [1 0 1 0 6 0 0 1 1 0 0 0 0 0 0 4])
+  ("initLocalData" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("window" .
+   [2 0 0 0 0 0])
+  ("docs" .
+   [9 0 0 5])
+  ("biaodihao" .
+   [3 0 0 0 0 0 2 0 0])
+  ("html" .
+   [4 0 0 0])
+  ("padding" .
+   [1 0 0 0 0 0 0])
+  ("bold" .
+   [0 0 0 1])
+  ("font-weight" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("10rem" .
+   [1 0 0 0 0])
+  ("font-size" .
+   [0 0 1 0 0 0 0 0 0])
+  ("font" .
+   [0 0 0 1])
+  ("count" .
+   [3 0 0 0 0])
+  ("insert" .
+   [0 0 0 0 1 0])
+  ("numRemoved" .
+   [0 0 0 4 0 0 0 0 0 0])
+  ("alert" .
+   [12 0 0 0 0])
+  ("splice" .
+   [0 0 0 0 0 1])
+  ("data" .
+   [19 0 0 0])
+  ("parse" .
+   [5 0 0 1 0])
+  ("workSheetsFromFile" .
+   [0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("err" .
+   [16 0 0])
+  ("loadDatabase" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("true" .
+   [6 0 0 0])
+  ("__dirname" .
+   [0 0 0 0 0 1 0 0 0])
+  ("filename" .
+   [1 0 0 0 0 0 0 0])
+  ("db" .
+   [11 0])
+  ("response" .
+   [0 0 3 3 4 1 0 0])
+  ("type" .
+   [1 0 0 0])
+  ("message" .
+   [0 0 2 2 2 0 0])
+  ("i" .
+   [6])
+  ("Datastore" .
+   [0 0 1 1 0 0 0 0 0])
+  ("name" .
+   [1 0 0 0])
+  ("send" .
+   [6 0 0 4])
+  ("files" .
+   [3 0 0 0 0])
+  ("dialog" .
+   [0 0 0 2 0 0])
+  ("ipc" .
+   [16 0 0])
+  ("homedir" .
+   [0 0 0 0 0 0 1])
+  ("showItemInFolder" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("os" .
+   [2 0])
+  ("shell" .
+   [3 0 0 0 0])
+  ("path" .
+   [4 0 2 0])
+  ("help" .
+   [1 0 0 2])
+  ("exportData" .
+   [1 0 0 0 1 0 0 0 0 0])
+  ("search" .
+   [2 0 0 0 0 0])
+  ("importData" .
+   [1 0 0 0 0 0 0 0 1 1])
+  ("xlsx" .
+   [1 0 1 0])
+  ("size" .
+   [2 0 0 0])
+  ("new" .
+   [3 0 0])
+  ("main" .
+   [1 0 0 0])
+  ("electronScreen" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("electron" .
+   [1 0 1 0 0 0 0 3])
+  ("fullscreenFix" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("a" .
+   [3])
+  ("remote" .
+   [5 0 0 0 1 10])
+  ("log" .
+   [62 0 0])
+  ("event" .
+   [7 0 0 4 4])
+  ("addEventListener" .
+   [0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("getElementById" .
+   [1 0 1 1 2 0 0 0 0 0 0 0 0 5])
+  ("document" .
+   [0 0 0 0 3 6 1 0])
+  ("fullscreen" .
+   [0 0 0 1 1 0 0 0 0 0])
+  ("BrowserWindow" .
+   [0 0 1 1 1 0 0 0 0 0 0 0 0])
+  ("null" .
+   [3 0 0 0])
+  ("mainWindow" .
+   [0 0 0 1 1 0 0 1 0 6])
+  ("if" .
+   [34 0])
+  ("on" .
+   [16 0])
+  ("getName" .
+   [2 0 0 1 0 0 1])
+  ("app" .
+   [6 0 0])
+  ("title" .
+   [1 0 0 1 0])
+  ("minWidth" .
+   [0 0 0 0 0 1 0 0])
+  ("height" .
+   [4 0 0 1 0 0])
+  ("width" .
+   [4 0 0 0 0])
+  ("windowOptions" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("let" .
+   [35 0 0])
+  ("function" .
+   [44 0 0 1 2 0 0 0])
+  ("createWindow" .
+   [0 0 0 0 0 0 0 0 0 0 0 3])
+  ("const" .
+   [19 0 0 0 13])
+  ("ac-js2-mode" .
    [0 0 0 0 0 0 1 0 0 1 0])
   ("ac-dwim" .
    [0 0 0 1 0 0 0])
@@ -31,7 +319,7 @@
   ("default-directory" .
    [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
   ("default" .
-   [0 0 0 0 0 0 1])
+   [0 0 0 0 0 1 2])
   ("setq" .
    [12 0 0 1])
   ("test" .
@@ -59,7 +347,7 @@
   ("nil" .
    [4 0 0])
   ("autoload" .
-   [0 0 0 0 0 0 0 1])
+   [1 0 0 0 0 0 0 1])
   ("ac-js2" .
    [0 0 0 0 1 2])
   ("add-hook" .
@@ -79,7 +367,7 @@
   ("require-package" .
    [0 0 0 0 0 0 0 3 1 1 0 0 0 0 5])
   ("require" .
-   [9 0 0 0 0 0 6])
+   [9 0 0 0 0 0 14])
   ("defmath" .
    [0 0 1 0 0 0 0])
   ("auto-complete" .
@@ -117,4 +405,30 @@
   ("command-line-default-directory" .
    [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
   ("js2-mode-hook" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 1])))
+   [0 0 0 0 0 0 0 0 0 0 0 1 1])
+  ("getCurrentWindow" .
+   [0 0 0 0 3 1 0 0 0 0 0 0 0 0 0 0])
+  ("globalShortcut" .
+   [0 0 0 4 0 0 0 0 0 0 0 0 0 1])
+  ("unregisterAll" .
+   [0 0 4 0 0 0 0 0 0 0 0 0 0])
+  ("webContents" .
+   [0 0 0 4 0 0 0 0 0 0 0])
+  ("nextRight" .
+   [0 0 0 1 0 0 0 0 0])
+  ("win" .
+   [6 0 0])
+  ("nextLeft" .
+   [1 0 0 0 0 0 0 0])
+  ("nextUp" .
+   [1 0 0 0 0 0])
+  ("nextDown" .
+   [0 0 0 0 0 0 0 1])
+  ("gray" .
+   [0 0 1 2])
+  ("hello" .
+   [0 0 0 0 2])
+  ("registerShortcut" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("getFocusedWindow" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])))
